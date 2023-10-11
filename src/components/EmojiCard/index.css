@@ -1,0 +1,18 @@
+.emoji-item {
+  height: 170px;
+  width: 200px;
+  border-radius: 12px;
+  border: 1px solid #ffffff;
+  background-color: #ffffff33;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.cardBtn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}

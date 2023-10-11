@@ -1,0 +1,55 @@
+.result-container {
+  height: 60vh;
+  width: 50%;
+  border-radius: 15px;
+  background-color: #ffffff33;
+  border: 1px solid #ffffff30;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.content-defeat-container {
+  width: 170px;
+  text-align: center;
+}
+
+.result-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-bottom: 35px;
+  font-size: 40px;
+}
+
+.defeat-score-word {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding: 0px;
+  font-size: 30px;
+}
+
+.mark {
+  color: #6a59ff;
+  font-size: 45px;
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+}
+
+.img-element {
+  width: 250px;
+}
+
+.btn-element {
+  height: 40px;
+  width: 110px;
+  border: none;
+  border-radius: 20px;
+  background-color: #ffce27;
+  color: #3d3d3d;
+  margin-top: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
